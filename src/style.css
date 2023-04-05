@@ -1,0 +1,39 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+#Navbar {
+  background-color: black;
+  padding: 20px;
+  color: red;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.services {
+  background-color: blue;
+  color: black;
+  padding: 20px;
+  margin: 10px;
+}
+
+.employees {
+  background-color: gray;
+  margin: 20px;
+  text-align: center;
+  padding: 15px;
+}
+.employee {
+  display: flex;
+  background-color: black;
+  color: red;
+  justify-content: space-between;
+  padding: 10px;
+  margin: 5px;
+}
+
+#employee-info {
+  padding: 10px;
+  margin: 10px;
+  background-color: grey;
+}
